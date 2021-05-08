@@ -1,6 +1,6 @@
 # TaskList
 
-Integration newyork times search api.
+Task And Subtask List.
 
 ![alt text](https://raw.githubusercontent.com/SumitKumar-FrontEndDeveloper/ozotest/master/Screen%20Shot%202021-05-08%20at%2015.40.14.png)
 
