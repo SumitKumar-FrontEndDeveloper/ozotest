@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/Users/sumit/Desktop/oozoo/src/reducers/to-do.reducer.spec.js">
-    <testCase name="Cutomer Profile OTP reducers should return the initial state" duration="4"/>
-    <testCase name="Cutomer Profile OTP reducers should handle TODO_LIST_FETCH_REQUEST" duration="0"/>
+  <file path="/Users/sumit/Desktop/ozotest/src/actions/to-do/to-do.spec.js">
+    <testCase name="test all action in should create an action to add a todo" duration="4"/>
+    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="19"/>
+    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="1"/>
+    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="1"/>
+    <testCase name="Error case of action should dispatch action with error" duration="39"/>
+  </file>
+  <file path="/Users/sumit/Desktop/ozotest/src/components/header/header.spec.js">
+    <testCase name="Article List test test if there is change in input field" duration="106"/>
+    <testCase name="Article List test test click on the button" duration="6"/>
+  </file>
+  <file path="/Users/sumit/Desktop/ozotest/src/reducers/to-do.reducer.spec.js">
+    <testCase name="Cutomer Profile OTP reducers should return the initial state" duration="0"/>
+    <testCase name="Cutomer Profile OTP reducers should handle TODO_LIST_FETCH_REQUEST" duration="1"/>
     <testCase name="Cutomer Profile OTP reducers should handle TODO_LIST_FETCH_FAILURE" duration="0"/>
     <testCase name="Cutomer Profile OTP reducers should handle TODO_ADD_REQUEST" duration="1"/>
     <testCase name="Cutomer Profile OTP reducers should handle TODO_ADD_FAILURE" duration="0"/>
-    <testCase name="Cutomer Profile OTP reducers should handle TODO_UPDATE_REQUEST" duration="2"/>
+    <testCase name="Cutomer Profile OTP reducers should handle TODO_UPDATE_REQUEST" duration="1"/>
     <testCase name="Cutomer Profile OTP reducers should handle TODO_UPDATE_FAILURE" duration="1"/>
   </file>
-  <file path="/Users/sumit/Desktop/oozoo/src/components/header/header.spec.js">
-    <testCase name="Article List test test if there is change in input field" duration="115"/>
-    <testCase name="Article List test test click on the button" duration="18"/>
-  </file>
-  <file path="/Users/sumit/Desktop/oozoo/src/actions/to-do/to-do.spec.js">
-    <testCase name="test all action in should create an action to add a todo" duration="3"/>
-    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="26"/>
-    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="1"/>
-    <testCase name="Action Creator for Articles list should dispatch action with status added" duration="2"/>
-    <testCase name="Error case of action should dispatch action with error" duration="16"/>
-  </file>
-  <file path="/Users/sumit/Desktop/oozoo/src/components/to-do/todo-component.spec.js">
-    <testCase name="To Do List test test if there is access token" duration="149"/>
+  <file path="/Users/sumit/Desktop/ozotest/src/components/to-do/todo-component.spec.js">
+    <testCase name="To Do List test test if there is access token" duration="119"/>
   </file>
 </testExecutions>
