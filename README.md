@@ -9,14 +9,10 @@ Integration newyork times search api.
 ### `Project task`
 
 1. Setup project in react js.
-2. Create UI of news listing page which is responsive.
-3. Integration of newyork times search api by using axios.
-4. Setup reusable redux store. 
-5. Setup unit test configuration by using jest and enzyme
-5. Implementation of routes.
-5. Create UI of news details page.
-6. Search feature.
-7. Write unit test for all functional files.
+2. Create UI of task list.
+3. Integration of task api
+4. Unit test by jest framwork
+
 
 
 ### `yarn install`
