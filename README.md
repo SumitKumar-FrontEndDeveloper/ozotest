@@ -1,4 +1,4 @@
-# Pomelo Test
+# Oozoo Test
 
 Integration newyork times search api.
 
